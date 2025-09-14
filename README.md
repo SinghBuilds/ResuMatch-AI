@@ -33,11 +33,4 @@ Make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (v16 or later)  
 - [npm](https://www.npmjs.com/)  
 
-### Installation  
-```bash
-# Clone the repository
-git clone https://github.com/your-username/resumatch-ai.git
-cd resumatch-ai
 
-# Install dependencies
-npm install
